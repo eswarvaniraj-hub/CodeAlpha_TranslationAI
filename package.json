@@ -1,0 +1,20 @@
+{
+  "name": "codealpha-language-translation-tool",
+  "version": "1.0.0",
+  "description": "CodeAlpha AI Internship Task 1 - Language Translation Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "translation",
+    "language-tool",
+    "codealpha"
+  ],
+  "author": "CodeAlpha Intern",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
